@@ -6,7 +6,7 @@ import fs from 'fs'
 import dotenv from 'dotenv'
 dotenv.config()
 
-const ownervb = process.env.OWNERS || "254740007567; Marisel"
+const ownervb = process.env.OWNERS || "2250500161896; ♨️𝚳𝚪 𝚯𝚰𝚳 𝐋𝐃𝐘 🆒😎ᴱˡ ˢᵘʳᵛⁱᵛᵒʳ"
 
 
 const ownerlist = ownervb.split(';');
@@ -24,7 +24,7 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 //global.pairingNumber = "" //put your bot number here
 
 global.mods = ['254740007566', '254790375710']
-global.prems = ['254790375710', '254740007567']
+global.prems = ['2250500161896', '2250500161896']
 global.allowed = ['254740007567', '254790375710']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
@@ -70,9 +70,9 @@ global.APIKeys = {
 
 // Sticker WM
 global.botname = process.env.BOTNAME
-global.premium = 'false'
-global.packname = 'Mercedes'
-global.author = 'Marisel'
+global.premium = 'true'
+global.packname = '♨️𝚳𝚪 𝚯𝚰𝚳 𝐋𝐃𝐘 🆒😎ᴱˡ ˢᵘʳᵛⁱᵛᵒʳ'
+global.author = '♨️𝚳𝚪 𝚯𝚰𝚳 𝐋𝐃𝐘 🆒😎ᴱˡ ˢᵘʳᵛⁱᵛᵒʳ'
 global.menuvid = 'https://files.catbox.moe/r9oil6.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/\n'
 global.dygp = 'https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x'
